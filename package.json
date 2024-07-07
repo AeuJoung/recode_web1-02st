@@ -8,5 +8,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "_moduleAliases" : {
+    "@root" : ".",
+    "@img" : "./img",
+    "@src" : "./src"
+  }
 }
+
